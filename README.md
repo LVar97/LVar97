@@ -8,6 +8,5 @@
 
 
 ## Мой стек:
-![image](https://user-images.githubusercontent.com/68896587/114626495-7a9fa680-9cbc-11eb-9e1b-aa67354d1126.png)
 
-
+![image]https://ru.inettools.net/downloadWfile/13503798
