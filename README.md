@@ -9,4 +9,4 @@
 
 ## Мой стек:
 
-![image](https://ru.inettools.net/downloadWfile/13503812)
+![image](https://ru.inettools.net/downloadWfile/13503816)
