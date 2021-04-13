@@ -8,4 +8,7 @@
 
 
 ## Мой стек:
-![image](https://user-images.githubusercontent.com/68896587/114626058-d74e9180-9cbb-11eb-9bf5-a7f90385b7cd.png)
+![image](https://user-images.githubusercontent.com/68896587/114626324-3b715580-9cbc-11eb-915e-8fccaa09b87f.png)
+![image](https://user-images.githubusercontent.com/68896587/114626393-504de900-9cbc-11eb-9c71-c5cff6ceee38.png)
+![image](https://user-images.githubusercontent.com/68896587/114626443-63f94f80-9cbc-11eb-82ca-d8178ce2b4a5.png)
+
