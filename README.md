@@ -9,8 +9,8 @@
 
 ## ⚙️Мой стек:
 
-![image](https://ru.inettools.net/downloadWfile/13503830)
-![image](https://ru.inettools.net/downloadWfile/13503828)
+![image](https://github.com/LVar97/LVar97/raw/main/image/react.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.png)
 ![image](https://ru.inettools.net/downloadWfile/13503831)
 ![image](https://ru.inettools.net/downloadWfile/13503834)
 ![image](https://ru.inettools.net/downloadWfile/13503832)
