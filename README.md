@@ -19,3 +19,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97)](https://github.com/LVar97/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97&layout=compact)](https://github.com/LVar97/github-readme-stats)
