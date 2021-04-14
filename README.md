@@ -9,12 +9,10 @@
 
 ## ⚙️Мой стек:
 
+![image](https://github.com/LVar97/LVar97/raw/main/image/html-5.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/css-3.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/javascript.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/webpack.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/react.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/github.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.png)
-![image](https://ru.inettools.net/downloadWfile/13503831)
-![image](https://ru.inettools.net/downloadWfile/13503834)
-![image](https://ru.inettools.net/downloadWfile/13503832)
-![image](https://ru.inettools.net/downloadWfile/13503829)
-![image](https://ru.inettools.net/downloadWfile/13503816)
-![image](https://ru.inettools.net/downloadWfile/13503849)
-
