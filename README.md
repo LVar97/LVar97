@@ -18,5 +18,6 @@
 ![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.png)
 
 🔮Моя статистика:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVar97&hide=stars,commits,prs,issues,contribs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVar97&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97&layout=compact)](https://github.com/LVar97/github-readme-stats)
