@@ -18,4 +18,4 @@
 ![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.png)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/LVar97=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97)](https://github.com/LVar97/github-readme-stats)
