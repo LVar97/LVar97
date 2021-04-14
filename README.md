@@ -19,5 +19,5 @@
 
 ## 🔮Моя статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVar97&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVar97&show_icons=true&hide=contribs,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97&layout=compact)](https://github.com/LVar97/github-readme-stats)
