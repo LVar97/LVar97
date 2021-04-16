@@ -7,7 +7,7 @@
 * 💜Просто получать удовольствие от того, чем занимаюсь
 
 
-## ⚙️Мой стек:
+## ⚙️ Мой стек:
 
 ![image](https://github.com/LVar97/LVar97/raw/main/image/html-5.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/css_3.png)
@@ -18,7 +18,7 @@
 ![image](https://github.com/LVar97/LVar97/raw/main/image/visual-studio.png)
 
 
-## 🔮Моя статистика:
+## 🔮 Моя статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LVar97&show_icons=true&hide=contribs,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LVar97&layout=compact)](https://github.com/LVar97/github-readme-stats)
