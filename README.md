@@ -10,9 +10,9 @@
 ## ⚙️Мой стек:
 
 ![image](https://github.com/LVar97/LVar97/raw/main/image/html-5.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/css-3.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/css_3.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/javascript.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/webpack.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/react.png)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/github.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.png)
+![image](https://github.com/LVar97/LVar97/raw/main/image/visual-studio.png)
