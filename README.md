@@ -24,9 +24,11 @@
 ![image](https://github.com/LVar97/LVar97/raw/main/image/webpack.svg)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/git.svg)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/phpstorm.svg)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/figma.svg)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/photoshop.svg)
 ![image](https://github.com/LVar97/LVar97/raw/main/image/postman.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/bootstrap.svg)
 
 ## 🔮 Моя статистика:
 
