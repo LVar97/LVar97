@@ -9,14 +9,24 @@
 
 ## ⚙️ Мой стек:
 
-![image](https://github.com/LVar97/LVar97/raw/main/image/html-5.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/css_3.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/javascript.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/webpack.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/react.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/github.png)
-![image](https://github.com/LVar97/LVar97/raw/main/image/visual-studio.png)
+### Front-end:
+![image](https://github.com/LVar97/LVar97/raw/main/image/html5.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/css3.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/javascript.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/react.svg)
 
+### Back-end:
+![image](https://github.com/LVar97/LVar97/raw/main/image/nodejs.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/mongodb.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/express.svg)
+
+### Tools: 
+![image](https://github.com/LVar97/LVar97/raw/main/image/webpack.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/git.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/vscode.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/figma.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/photoshop.svg)
+![image](https://github.com/LVar97/LVar97/raw/main/image/postman.svg)
 
 ## 🔮 Моя статистика:
 
